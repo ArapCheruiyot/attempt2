@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Google Drive File Sync</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://apis.google.com/js/api.js"></script>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Google Drive File Sync</h1>
+    </header>
+
+    <main>
+      <button id="authorize-btn" class="btn">Authorize</button>
+      <button id="download-btn" class="btn" disabled>Download Files</button>
+      <div id="status" class="status">Status: Waiting for authorization...</div>
+    </main>
+
+    <script src="script.js" defer></script>
+  </div>
+</body>
+</html>
