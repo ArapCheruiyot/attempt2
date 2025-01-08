@@ -1,5 +1,5 @@
 const CLIENT_ID = "116032101343-4k05qrav25818n9r3p9vj8f793lagu0h.apps.googleusercontent.com";
-const API_KEY = "YOUR_API_KEY"; // Replace with your actual API key
+const API_KEY = "AIzaSyDaB0abWzKS_O3UG1Ec__zIHlfmup7ywCI"; // Replace with your actual API key
 const SCOPES = "https://www.googleapis.com/auth/drive.readonly";
 const FOLDER_ID = "1rSxY5C7YCGFS1mpwlAckQQuBTAn8OQH-";
 
